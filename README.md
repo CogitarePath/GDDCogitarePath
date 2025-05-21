@@ -1,6 +1,6 @@
 # Cogitare Path | GDD | Projeto A.G.I.R.O
-- Descrição: Projeto desenvolvido conforme proposto como Trabalho de Conclusão de Curso do ano final do 3° MTEC Em Desenvolvimento de Jogos Digitais do ano de 2025. O projeto é o desenvolvimento de um jogo completo de autoria própria e que no nosso caso, será A.G.I.R.O.
-## Equipe
+
+### Equipe
 
 - Alex Campos de Oliveira (Líder)
 - Christian Varandas (Vice-Líder)
@@ -9,8 +9,11 @@
 - Guilherme Henrique Lemes
 - Maria Eduarda da Silva Souza
 
+### Descrição
+- Descrição: Projeto desenvolvido conforme proposto como Trabalho de Conclusão de Curso do ano final do 3° MTEC Em Desenvolvimento de Jogos Digitais do ano de 2025. O projeto é o desenvolvimento de um jogo completo de autoria própria e que no nosso caso, será A.G.I.R.O.
 
-## Sumário
+
+## #Sumário
 
 1. [Informações Gerais](https://github.com/CogitarePath/GDDCogitarePath/wiki/1.-Informa%C3%A7%C3%B5es-Gerais) <br>
 
