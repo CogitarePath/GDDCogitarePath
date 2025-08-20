@@ -39,5 +39,5 @@
 
 -   [11. Aplicação Mobile](https://github.com/CogitarePath/GDDCogitarePath/wiki/11.-Aplica%C3%A7%C3%A3o-Mobile)</br>
 
--   [12. Conclusão]([https://github.com/CogitarePath/GDDCogitarePath/wiki/11.-Conclus%C3%A3o](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o))</br>
+-   [12. Conclusão]([https://github.com/CogitarePath/GDDCogitarePath/wiki/11.-Conclus%C3%A3o](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o)</br>
 
