@@ -36,5 +36,7 @@
 -   [9. Testes e Qualidade](https://github.com/CogitarePath/GDDCogitarePath/wiki/9.-Testes-e-Qualidade)</br>
 
 -   [10. Protótipos do Jogo](https://github.com/CogitarePath/GDDCogitarePath/wiki/10.-Prot%C3%B3tipos-do-Jogo#101-projeto-agiro)<br>
+
+-   [11. Aplicação Mobile](https://github.com/CogitarePath/GDDCogitarePath/wiki/11.-Aplica%C3%A7%C3%A3o-Mobile)</br>
     
 -   [12. Conclusão](https://github.com/CogitarePath/GDDCogitarePath/wiki/11.-Conclus%C3%A3o)</br>
