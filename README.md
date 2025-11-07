@@ -6,7 +6,7 @@
 - Christian Varandas (Vice-Líder)
 - Daniel Carvalho da Silva
 - Gabriel Gaudi Pozzi Rosalvo
-- Guilherme Henrique Lemes
+- Guilherme Henrique Lemes de Souza
 - Maria Eduarda da Silva Souza
 
 ### Descrição
