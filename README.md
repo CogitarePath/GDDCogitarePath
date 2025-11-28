@@ -86,28 +86,28 @@
     -   [11.3. Imagens das Telas](https://github.com/CogitarePath/GDDCogitarePath/wiki/11.-Aplica%C3%A7%C3%A3o-Mobile#113-imagens-das-telas)</br>
     -   [11.4. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/11.-Aplica%C3%A7%C3%A3o-Mobile#114-codifica%C3%A7%C3%A3o)</br>
     -   [11.5. Diagrama UML](https://github.com/CogitarePath/GDDCogitarePath/wiki/11.-Aplica%C3%A7%C3%A3o-Mobile#115-diagrama-uml)</br>
--   [12. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#121-codifica%C3%A7%C3%A3o)</br>
-    -   [12.1. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o#121-sum%C3%A1rio)</br>
-    -   [12.2. PlayerMove](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#122-playermove)</br>
-    -   [12.3. SanityBar](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#123-sanitybar)</br>
-    -   [12.4. Interactions ](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#124-interactions----gaudi-bota-os-nomes-do-codigo-bonitin-e-os-que-usam-a-classe-principal-como-base-ce-bota-como-subtopico)</br>
-    -   [12.5. FlashLight](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#125-flashlight)</br>
-     -   [12.5.1. StunLight](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1251-stunlight)</br>
-    -   [12.6. TimeCycle](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#126-timecycle)</br>
-     -   [12.6.1. TimerDificulter](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1261-timerdificulter)</br>
-    -   [12.7. PatrolEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#127-patrolenemy)</br>
-     -   [12.7.1. ShadowEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1271-shadowenemy)</br>
-     -   [12.7.2. CatEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1272-catenemy)</br>
-     -   [12.7.3. LodoEffect](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1273-lodoeffect)</br>
-    -   [12.8. UICleaner](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#128-uicleaner)</br>
-    -   [12.9. Generator](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#129-generator)</br>
-     -   [12.9.1. TimerDificulter](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1291-generator)</br>
-     -   [12.9.2. TimerDificulter](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1292-generator)</br>
-    -   [12.10. DialogueCollision](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1210-dialoguecollision)</br>
-    -   [12.11. DialogueSystem](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1211-dialoguesystem)</br>
-    -   [12.12. SoundManager](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#1212-soundmanager)</br>
-     -   [12.12.1. ColliderAudio](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Codifica%C3%A7%C3%A3o#12121-collideraudio)</br>
+-   [12. Conclusão](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o)</br>
+    -   [12.1. Sumário](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o#121-sum%C3%A1rio)</br>
+    -   [12.2. Próximos Passos](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o#122-pr%C3%B3ximos-passos)</br>
 
--   [13. Conclusão](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Conclus%C3%A3o#132-pr%C3%B3ximos-passos)</br>
-    -   [13.1. Sumário](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Conclus%C3%A3o#131-sum%C3%A1rio)</br>
-    -   [13.2. Próximos Passos](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Conclus%C3%A3o#132-pr%C3%B3ximos-passos)</br>
+-   [13. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o)</br>
+    -   [13.1. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#131-codifica%C3%A7%C3%A3o)</br>
+    -   [13.2. PlayerMove](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#132-playermove)</br>
+    -   [13.3. SanityBar](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#133-sanitybar)</br>
+    -   [13.4. Interactions](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#134-interactions)</br>
+    -   [13.5. FlashLight](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#135-flashlight)</br>
+     -   [13.5.1. StunLight](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1351-stunlight)</br>
+    -   [13.6. TimeCycle](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#136-timecycle)</br>
+     -   [13.6.1. TimerDificulter](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1361-timerdificulter)</br>
+    -   [13.7. PatrolEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#137-patrolenemy)</br>
+     -   [13.7.1. ShadowEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1371-shadowenemy)</br>
+     -   [13.7.2. CatEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1372-catenemy)</br>
+     -   [13.7.3. LodoEffect](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1373-lodoeffect)</br>
+    -   [13.8. UICleaner](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#138-uicleaner)</br>
+    -   [13.9. Generator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#139-generator)</br>
+     -   [13.9.1. Generator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1391-generator)</br>
+     -   [13.9.2. Generator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1392-generator)</br>
+    -   [13.10. DialogueCollision](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1310-dialoguecollision)</br>
+    -   [13.11. DialogueSystem](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1311-dialoguesystem)</br>
+    -   [13.12. SoundManager](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1312-soundmanager)</br>
+     -   [13.12.1. ColliderAudio](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#13121-collideraudio)</br>
