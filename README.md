@@ -89,7 +89,6 @@
 -   [12. Conclusão](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o)</br>
     -   [12.1. Sumário](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o#121-sum%C3%A1rio)</br>
     -   [12.2. Próximos Passos](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o#122-pr%C3%B3ximos-passos)</br>
-
 -   [13. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o)</br>
     -   [13.1. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#131-codifica%C3%A7%C3%A3o)</br>
     -   [13.2. PlayerMove](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#132-playermove)</br>
@@ -100,7 +99,6 @@
       -   [13.4.3. DoorPassword](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1343-doorpassword)</br>
       -   [13.4.4. PasswordButton](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1344-passwordbutton)</br>
       -   [13.4.5. SceneChangeInteraction](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1345-scenechangeinteraction)</br>
-      
     -   [13.5. FlashLight](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#135-flashlight)</br>
      -   [13.5.1. StunLight](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1351-stunlight)</br>
     -   [13.6. TimeCycle](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#136-timecycle)</br>
