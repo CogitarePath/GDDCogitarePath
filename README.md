@@ -14,7 +14,6 @@
 
 
 ### Sumário
-
 -   [Home](https://github.com/CogitarePath/GDDCogitarePath/wiki)<br>
 -   [1. Informações Gerais](https://github.com/CogitarePath/GDDCogitarePath/wiki/1.-Informa%C3%A7%C3%B5es-Gerais)</br>
     -   [1. Informações Gerais](https://github.com/CogitarePath/GDDCogitarePath/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#11-t%C3%ADtulo-do-jogo)
@@ -90,38 +89,41 @@
     -   [12.1. Sumário](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o#121-sum%C3%A1rio)</br>
     -   [12.2. Próximos Passos](https://github.com/CogitarePath/GDDCogitarePath/wiki/12.-Conclus%C3%A3o#122-pr%C3%B3ximos-passos)</br>
 -   [13. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o)</br>
-    -   [13.1. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#131-codifica%C3%A7%C3%A3o)</br>
-    -   [13.2. PlayerMove](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#132-playermove)</br>
-    -   [13.3. SanityBar](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#133-sanitybar)</br>
-    -   [13.4. Interactions](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#134-interactions)</br>
+   - [13.1. Codificação](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#131-codifica%C3%A7%C3%A3o)</br>
+   - [13.2. PlayerMove](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#132-playermove)</br>
+   - [13.3. SanityBar](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#133-sanitybar)</br>
+   - [13.4. Interactions](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#134-interactions)</br>
       -   [13.4.1. InterfaceInteraction](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1341-interfaceinteraction)</br>
       -   [13.4.2. ShowKeypad](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1342-showkeypad)</br>
       -   [13.4.3. DoorPassword](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1343-doorpassword)</br>
       -   [13.4.4. PasswordButton](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1344-passwordbutton)</br>
       -   [13.4.5. SceneChangeInteraction](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1345-scenechangeinteraction)</br>
-    -   [13.5. FlashLight](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#135-flashlight)</br>
+   - [13.5. FlashLight](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#135-flashlight)</br>
      -   [13.5.1. StunLight](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1351-stunlight)</br>
-    -   [13.6. TimeCycle](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#136-timecycle)</br>
+   - [13.6. TimeCycle](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#136-timecycle)</br>
      -   [13.6.1. TimerDificulter](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1361-timerdificulter)</br>
-    -   [13.7. PatrolEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#137-patrolenemy)</br>
+   - [13.7. PatrolEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#137-patrolenemy)</br>
      -   [13.7.1. ShadowEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1371-shadowenemy)</br>
      -   [13.7.2. CatEnemy](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1372-catenemy)</br>
      -   [13.7.3. LodoEffect](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1373-lodoeffect)</br>
-    -   [13.8. UICleaner](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#138-uicleaner)</br>
-    -   [13.9. Generator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#139-generator-classe-m%C3%A3e)</br>
+   - [13.8. UICleaner](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#138-uicleaner)</br>
+   - [13.9. Generator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#139-generator-classe-m%C3%A3e)</br>
      -   [13.9.1. ResidentialGenerator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1391-residentialgenerator)</br>
      -   [13.9.2. ParkGenerator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1392-parkgenerator)</br>
      -   [13.9.3. FuseActivation](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1393-fuseactivation)</br>
      -   [13.9.4. ActivateLights](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1394-activatelights)</br>
      -   [13.9.5. ParkEntranceItem](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1395-parkentranceitem)</br>
-    -   [13.10. DialogueCollision](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1310-dialoguecollision)</br>
-    -   [13.11. DialogueSystem](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1311-dialoguesystem)</br>
-    -   [13.12. SoundManager](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1312-soundmanager)</br>
+   - [13.10. DialogueCollision](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1310-dialoguecollision)</br>
+   - [13.11. DialogueSystem](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1311-dialoguesystem)</br>
+   - [13.12. SoundManager](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1312-soundmanager)</br>
      -   [13.12.1. ColliderAudio](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#13121-collideraudio)</br>
-    -   [13.13. Inventory](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1313-inventory)</br>
+   - [13.13. Inventory](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1313-inventory)</br>
       -   [13.13.1. InventoryItem](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#13131-inventoryitem)</br>
       -   [13.13.2. IPlayerInteraction](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#13132-iplayerinteraction)</br>
       -   [13.13.3. InventoryControl](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#13133-inventorycontrol)</br>
       -   [13.13.4. Inventory](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#13134-inventory)</br>
       -   [13.13.5. Interactable](Path/GDDCogitarePath/wiki/13.-Codificação#13135-interactable)</br>
       -   [13.13.6. InteractableSave](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#13136-interactablesave)</br>
+   - [13.14. OpenExit](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1314-openexit)</br>
+   - [13.15. ShowPages](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1315-showpages)</br>
+   - [13.16. PagesView](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1316-pagesview)</br>
