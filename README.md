@@ -130,5 +130,5 @@
    - [13.17. Vídeos](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1317-v%C3%ADdeos)</br>
       -   [13.17.1. VideoPlayer](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#13171-videoplayer)</br>
       -   [13.17.2. CutScenesPlay](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#13172-cutscenesplay)</br>
--   [14. Codfiicação Mobile](https://github.com/CogitarePath/GDDCogitarePath/wiki/14.-Co)<br>
+-   [14. Codfiicação Mobile](https://github.com/CogitarePath/GDDCogitarePath/wiki/14.-Codifica%C3%A7%C3%A3o-Mobile)<br>
 -   [15. Codificação Site](https://github.com/CogitarePath/GDDCogitarePath/wiki/15.-Site)<br>
