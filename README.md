@@ -111,6 +111,9 @@
     -   [13.9. Generator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#139-generator-classe-m%C3%A3e)</br>
      -   [13.9.1. ResidentialGenerator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1391-residentialgenerator)</br>
      -   [13.9.2. ParkGenerator](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1392-parkgenerator)</br>
+     -   [13.9.3. FuseActivation](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1393-fuseactivation)</br>
+     -   [13.9.4. ActivateLights](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1394-activatelights)</br>
+     -   [13.9.5. ParkEntranceItem](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1395-parkentranceitem)</br>
     -   [13.10. DialogueCollision](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1310-dialoguecollision)</br>
     -   [13.11. DialogueSystem](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1311-dialoguesystem)</br>
     -   [13.12. SoundManager](https://github.com/CogitarePath/GDDCogitarePath/wiki/13.-Codifica%C3%A7%C3%A3o#1312-soundmanager)</br>
